@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JSON",
+				"JsonResponse"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"Course",
+				"CourseSerializer"
+			],
+			[
+				"cs",
+				"csrf_exempt"
+			],
+			[
+				"Sub",
+				"SubmissionFile"
+			],
+			[
+				"su",
+				"submission_batch"
+			],
+			[
+				"Subm",
+				"Submission"
+			],
+			[
+				"ass",
+				"assertIsNone"
+			],
+			[
+				"Peer",
+				"PeerReviewFactory"
+			],
+			[
+				"Submiss",
+				"SubmissionFactory"
+			],
+			[
+				"Assignment",
+				"AssignmentFactory"
+			],
+			[
+				"Submission",
+				"Submission"
+			],
+			[
+				"Ass",
+				"AssignmentFactory"
+			],
+			[
+				"AL",
+				"ALGORITHM"
+			],
+			[
+				"post",
+				"postgres_data"
+			],
+			[
+				"ROO",
+				"ROOT_DIR"
+			],
+			[
+				"SE",
+				"SECRET_KEY"
+			],
+			[
+				"second",
+				"second_saved_item"
+			],
+			[
+				"firs",
+				"first_saved_item"
+			],
+			[
+				"asser",
+				"assertEqual"
+			],
+			[
+				"sec",
+				"second_item"
+			],
+			[
+				"in",
+				"inputbox"
+			],
+			[
+				"id",
+				"id_new_item"
+			],
+			[
+				"find",
+				"find_element_by_id"
+			],
+			[
+				"check",
+				"check_for_row_in_list_table"
+			],
+			[
+				"row",
+				"row_text"
+			],
+			[
+				"head",
+				"header_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3102,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Create Linter Plugin"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 59.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lacey/git/tutorial"
+	],
+	"file_history":
+	[
+		"/Users/lacey/git/wpe/wpe/urls.py",
+		"/Users/lacey/git/wpe/users/admin.py",
+		"/Users/lacey/git/wpe/users/models.py",
+		"/Users/lacey/git/wpe/users/migrations/0002_auto_20171007_1545.py",
+		"/Users/lacey/git/wpe/users/migrations/0001_initial.py",
+		"/Users/lacey/git/wpe/Dockerfile",
+		"/Users/lacey/git/wpe/assignments/urls.py",
+		"/Users/lacey/git/wpe/assignments/models.py",
+		"/Users/lacey/git/wpe/assignments/views.py",
+		"/Users/lacey/git/wpe/assignments/serializers.py",
+		"/Users/lacey/git/wpe/.env",
+		"/Users/lacey/git/wpe/assignments/admin.py",
+		"/Users/lacey/git/wpe/requirements.txt",
+		"/Users/lacey/git/wpe/assignments/tests/test_models.py",
+		"/Users/lacey/git/wpe/.gitignore",
+		"/Users/lacey/git/wpe/wpe/settings/base.py",
+		"/Users/lacey/git/wpe/.editorconfig",
+		"/Users/lacey/Desktop/todo_whooppee.txt",
+		"/Users/lacey/git/wpe/assignments/factories.py",
+		"/Users/lacey/git/wpe/assignments/tests/test_managers.py",
+		"/Users/lacey/git/wpe/users/factories.py",
+		"/Users/lacey/git/wpe/docker-compose.yml",
+		"/Users/lacey/git/wpe/assignments/migrations/0001_initial.py",
+		"/Users/lacey/git/wpe/users/tests/test_models.py",
+		"/Users/lacey/git/wpe/pairings/admin.py",
+		"/Users/lacey/git/wpe/pairings/models.py",
+		"/Users/lacey/git/wpe/wpe/settings/dev.py",
+		"/Users/lacey/git/wpe/wpe/settings/local.py",
+		"/Users/lacey/git/wpe/manage.py",
+		"/Users/lacey/git/wpe/wpe/settings/prod.py",
+		"/Users/lacey/git/wpe/wpe/settings/test.py",
+		"/Users/lacey/Desktop/git/wpe/Dockerfile",
+		"/Users/lacey/Desktop/git/wpe/wpe/settings/base.py",
+		"/Users/lacey/Desktop/git/wpe/docker-compose.yml",
+		"/Users/lacey/Downloads/django-lti-1.1.0/README.md",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/models.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_models.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/factories.py",
+		"/Users/lacey/Downloads/django-lti-1.1.0/wharton_lti/views.py",
+		"/Users/lacey/Downloads/django-lti-1.1.0/wharton_lti/management/commands/generate_lti_values.py",
+		"/Users/lacey/git/lacey-docker-excercise/spew/Dockerfile",
+		"/Users/lacey/git/lacey-docker-excercise/spew/docker-compose.yml",
+		"/Users/lacey/git/lacey-docker-excercise/spew/README.md",
+		"/Users/lacey/git/lacey-docker-excercise/spew/spew.py",
+		"/Users/lacey/git/lacey_docker/docker-compose.yml",
+		"/Users/lacey/git/lacey_docker/app.py",
+		"/Users/lacey/git/lacey_docker/requirements.txt",
+		"/Users/lacey/git/lacey_docker/Dockerfile",
+		"/Users/lacey/git/lacey_docker/README.md",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/canvas/exceptions.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/canvas/django.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_managers.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/canvas/base.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/setup.cfg",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_views.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_urls.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_settings.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_forms.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/tests/test_commands.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/courses/management/commands/expire_regcodes.py",
+		"/Users/lacey/Downloads/django-courses-1.0.17/PKG-INFO",
+		"/Users/lacey/Downloads/django-lti-1.1.0/setup.py",
+		"/Users/lacey/Downloads/django-lti-1.1.0/wharton_lti/tests/test_views.py",
+		"/Users/lacey/Downloads/django-lti-1.1.0/wharton_lti/tests/test_urls.py",
+		"/Users/lacey/Downloads/django-lti-1.1.0/wharton_lti/tests/test_settings.py",
+		"/Users/lacey/git/wharton_whooppee/.gitignore",
+		"/Users/lacey/git/wharton_whooppee/wharton_whooppee/urls.py",
+		"/Users/lacey/.bash_profile",
+		"/Users/lacey/git/revsys-django-cookiecutter/{{ cookiecutter.project_dir }}/requirements.txt",
+		"/Users/lacey/git/testinggoat/functional_tests/tests.py",
+		"/Users/lacey/git/testinggoat/superlists/superlists/settings.py",
+		"/Users/lacey/git/testinggoat/superlists/functional_tests.py",
+		"/Users/lacey/git/testinggoat/superlists/superlists/urls.py",
+		"/Users/lacey/git/testinggoat/superlists/lists/views.py",
+		"/Users/lacey/git/testinggoat/superlists/lists/templates/home.html",
+		"/Users/lacey/git/testinggoat/superlists/lists/models.py",
+		"/Users/lacey/git/testinggoat/superlists/lists/tests.py",
+		"/Users/lacey/Desktop/quili.py",
+		"/Users/lacey/git/testinggoat/.gitignore",
+		"/Users/lacey/git/testinggoat/functional_tests.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "drf-tutorial.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
