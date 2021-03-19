@@ -9,7 +9,7 @@ httpie==0.9.9
 idna==2.6
 isort==4.2.15
 itypes==1.1.0
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 mccabe==0.6.1
 pycodestyle==2.3.1
