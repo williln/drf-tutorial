@@ -18,4 +18,4 @@ Pygments==2.2.0
 pytz==2017.2
 requests==2.18.4
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
